@@ -1,0 +1,136 @@
+ /* Basic Styles  */
+
+body {
+    background-color: rgb(174, 240, 136);
+}
+ 
+main {
+    width: 100%;
+    height: auto;
+    padding: 20px;
+}
+
+/* Header style */
+
+.header {
+        width: 100%;
+        height: auto;
+}
+.header > h1 {
+    margin-top: 0%;
+    margin-left: 20px;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500px;
+   color: blue;
+   text-transform: uppercase;
+    
+}
+
+.header > h1 > img {
+    border-radius: 51px;
+
+}
+
+/* Navs styling */
+
+.Navs {
+    background-color: blueviolet;
+    width: 100%;
+    height: auto;
+
+}
+
+.Navs > ul {
+    list-style: none;
+
+}
+
+.Navs > li {
+    display: inline-block;
+    word-spacing: 30px;
+    font-size: 40px;
+    padding: 20px;
+
+}
+li > a {
+    text-decoration: none;
+    color: white;
+}
+
+/* Proparators styling */
+
+.proparators {
+    width: 100%;
+    height: auto;
+    margin-top: 0%;
+
+    
+}
+
+/* styling content */
+
+.content {
+    width: 100%;
+    height: auto;
+    padding: 20px;
+}
+
+.content > h2 {
+    font-size: 30px;
+    
+}
+.content > p {
+    font-size: 1.8em;
+    padding: 10px;
+    margin-top: 0%;
+}
+
+.ol {
+    font-size: 1.6em;
+    font-style: italic;
+    word-spacing: 10px;
+}
+
+.big > li {
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: darkblue;
+}
+
+.content > h3 {
+    font-size: 30px;
+      color: red;
+   
+}
+
+.right > li {
+    font-size: 30px;
+    color: rgb(37, 18, 119);
+    margin-top: 0%;
+   
+}
+
+.play {
+    width: 80%;
+    height: auto;
+
+}
+
+
+/* Footer Styling */
+
+.footer {
+    background-color: blueviolet;
+    color: blanchedalmond;
+    margin-top: 10px;
+    padding: 20px;
+    font-size: 1.6em; 
+
+}
+
+
+
+
+
+
