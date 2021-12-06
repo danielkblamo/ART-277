@@ -1,0 +1,123 @@
+/* Basic Styling  */
+
+main {
+    width: 100%;
+    height: auto;
+}
+
+body {
+    background-color: rgb(218, 247, 218);
+}
+
+.header {
+    width: 100%;
+    height: auto;
+
+}
+
+.header > h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+    margin-bottom: 0%;
+    margin-left: 20px;
+
+}
+.navi {
+    background-color: rgb(144, 192, 144);
+    width: 100%;
+    height: auto;
+}
+
+.navi > ul {
+    list-style: none;
+      
+}
+
+.navi > li {
+    display: inline-block;
+    word-spacing: 20px;
+    font-size: 30px;
+    padding: 20px;
+    
+}
+
+li > a {
+    text-decoration: none;
+    color: ivory;
+
+}
+.content {
+    width: 100%;
+    height: auto;
+    font-size: 1.8em;
+    padding: 20px;
+}
+
+.content > h3 {
+    font-size: 37px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0%;
+    color: rgb(69, 83, 69);
+}
+.content > img {
+    width: 100%;
+    height: auto;
+    margin-top: 0%;
+    
+}
+
+.list {
+    font-size: 1.2em;
+    color: yellow;
+}
+
+.list1 {
+    font-size: 1.2em;
+    color: white;
+}
+
+
+
+/* styling last */
+
+.last {
+    width: 90%;
+    height: auto;
+    background-color: rgb(138, 221, 138);
+    padding: 40px;
+    margin: 30px;
+
+}
+
+
+.lot > table {
+    width: 100%;
+    height: auto;
+    border-collapse: collapse;
+    table-layout: fixed;
+    font-size: 14px;
+  
+    
+}
+
+
+.footer {
+    background-color: rgb(144, 192, 144);
+    width: 100%;
+    height: auto;
+    padding: 20px;
+    color: ivory;
+    font-size: 20px;
+    text-align: center;
+
+    
+
+
+}
+
+
+
+
+
+
+
